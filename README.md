@@ -23,8 +23,7 @@ Clone this repo
 bash
 Copy
 Edit[
-https://github.com/siddbhadouriya/E-Commerce-Shop-App.git
-cd your-repo-name
+(https://github.com/siddbhadouriya/E-Commerce-Shop-App/tree/main)
 Install dependencies
 
 bash
